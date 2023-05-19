@@ -1,5 +1,5 @@
 # input-method
-Loads data from files in the data directory upon execution, and then outputs the Chinese characters corresponding to the pinyin spelling inputted by the use. 
+Loads data from files in the data directory upon execution, then outputs the Chinese characters corresponding to the pinyin spelling inputted by the user. 
 Sample execution:
 ```
 > z
